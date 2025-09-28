@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "9fc9",
+      "name": "Karen",
+      "age": 22,
+      "level": "Junior"
+    },
+    {
+      "id": "7449",
+      "name": "Ani",
+      "age": 25,
+      "level": "Senior"
+    },
+    {
+      "id": "d0ad",
+      "name": "Martin",
+      "age": 12,
+      "level": ""
+    }
+  ]
+}

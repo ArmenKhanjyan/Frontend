@@ -1,0 +1,25 @@
+  body{
+  padding: 20px 40px;
+} 
+ .list{
+  display: flex;
+  flex-direction: column;
+  gap:40px;
+}
+.list > div {
+  width: 200px;
+  height: 120px;
+  background: yellowgreen;
+  border-radius: 20px;
+}
+.done{
+  background-color: gray;
+  opacity: 0.6;
+}
+button{
+  padding: 5px 10px;
+}
+.active-btn{
+  background-color: green;
+  color:black;
+}

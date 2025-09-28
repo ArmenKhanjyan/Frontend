@@ -1,0 +1,24 @@
+
+
+/* Չկատարած todo */
+.not-completed {
+  background-color: rgb(5, 116, 90);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+    height: 100px;
+  width: 200px;
+}
+
+/* Կատարած todo */
+.completed {
+  border: 20px;
+  background-color: limegreen;  /* վառ կանաչ */
+  color: white;
+  padding: 10px 20px;
+  border-radius:20px;
+  height: 100px;
+  width: 200px;
+  margin-bottom: 10px ;
+}
